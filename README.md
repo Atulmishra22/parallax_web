@@ -8,6 +8,6 @@ The Parallax Website showcases stunning visuals with a smooth scrolling experien
 
 **Features**
 
-**Parallax Scrolling**: Background images move at varying speeds to create a sense of depth.
-**Smooth Scrolling**: Implemented smooth scrolling for a better user experience.
+**Parallax Scrolling**: Background images move at varying speeds to create a sense of depth.  
+**Smooth Scrolling**: Implemented smooth scrolling for a better user experience.  
 **Customizable Sections**: Easily customizable sections to showcase different content.
